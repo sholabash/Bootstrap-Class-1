@@ -1,0 +1,50 @@
+.container1{
+    background-color: orange;
+    height: 50px;
+}
+
+.container1 .icons{
+    font-size: 25px;
+}
+
+.container1 .icons i{
+
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+.container1 p{
+    padding-top: 10px;
+}
+
+.container2 ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+
+}
+.container2 ul li {
+    list-style-type: none;
+    padding-top: 40px;
+}
+
+.container2 ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+
+}
+
+.container2{
+    padding-top: 20px;
+}
+
+.container2 ul li a:hover{
+    color: orange;
+}
+
+.container2 .btn1{
+    width: 100px;
+}
